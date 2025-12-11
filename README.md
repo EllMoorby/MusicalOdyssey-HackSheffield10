@@ -11,6 +11,11 @@ Uses:
 
 You will require API keys for LastFM and Spotify.
 
+## Created by
+- Elliott Moorby [GitHub](https://github.com/EllMoorby)
+- Noah Cooling [GitHub](https://github.com/Domestic-Mouse)
+
+
 ## Screenshots
 
 <img width="1264" height="577" alt="eg1" src="https://github.com/user-attachments/assets/d642e75e-cb16-4468-9f67-a9994baab49c" />
