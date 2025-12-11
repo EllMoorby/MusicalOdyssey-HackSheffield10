@@ -1,6 +1,6 @@
 # Musical Odyssey
 HackSheffield 10 submission for the theme **Odyssey**, written in Java and Spring Web.
-Winner for "Best Representation of Theme".
+**Winner for "Best Representation of Theme".**
 
 Uses:
 - OpenStreetMaps
